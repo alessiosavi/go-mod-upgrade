@@ -1,4 +1,4 @@
-module github.com/oligot/go-mod-upgrade
+module github.com/alessiosavi/go-mod-upgrade
 
 go 1.19
 
